@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Undergraduate student interested in web development
 ---------------------------------------------------
 
-I'm a last year computer engineering undergraduate student at Institut Teknologi Sepuluh Nopember in Surabaya, Indonesia. I'm currently focusing on learning about front end web development
+I'm a senior year computer engineering undergraduate student at Institut Teknologi Sepuluh Nopember in Surabaya, Indonesia. I'm currently focusing on learning about front end web development
 
 * 🌍  I'm based in Surabaya, Indonesia
 * ✉️  You can contact me at [shabbrina5@gmail.com](mailto:shabbrina5@gmail.com)
