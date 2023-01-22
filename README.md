@@ -8,7 +8,7 @@ I'm a senior year computer engineering undergraduate student at Institut Teknolo
 
 * 🌍  I'm based in Surabaya, Indonesia
 * ✉️  You can contact me at [shabbrina5@gmail.com](mailto:shabbrina5@gmail.com)
-* 🧠  I'm currently learning Next JS 
+* 🧠  I'm currently learning Vue JS 
 * ⚡  I am a big fan of thriller books and movies especially when there is a murder mystery involved :smile:
 
 ### Skills
