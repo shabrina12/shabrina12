@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shabrina Putri
 ======================================================================================================================================
 
-fresh graduate interested in web development
----------------------------------------------------
+[fresh graduate interested in web development
+---------------------------------------------------](url)
 
-I'm a fresh graduate of computer engineering at Institut Teknologi Sepuluh Nopember in Surabaya, Indonesia. I'm currently focusing on learning about front end web development
+I'm a fresh graduate of computer engineering at Institut Teknologi Sepuluh Nopember in Surabaya, Indonesia. I'm currently focusing on learning about web development
 
 * 🌍  I'm based in Surabaya, Indonesia
 * ✉️  You can contact me at [shabbrina5@gmail.com](mailto:shabbrina5@gmail.com)
-* 🧠  I'm currently learning Vue JS 
+* 🧠  I'm currently learning ASP.NET & Vue JS 
 * ⚡  I am a big fan of thriller books and movies especially when there is a murder mystery involved :smile:
 
 ### Skills
