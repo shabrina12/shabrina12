@@ -5,7 +5,7 @@ I'm a fresh graduate of computer engineering at Institut Teknologi Sepuluh Nopem
 
 * 🌍  I'm based in Surabaya, Indonesia
 * ✉️  You can contact me at [shabbrina5@gmail.com](mailto:shabbrina5@gmail.com)
-* 🧠  I'm currently learning ASP.NET & Vue JS 
+* 🧠  I'm currently learning ASP.NET 
 * ⚡  I am a big fan of thriller books and movies especially when there is a murder mystery involved :smile:
 
 ### Skills
