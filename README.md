@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a fresh graduate of computer engineering at Institut Teknologi Sepuluh Nopember in Surabaya, Indonesia. I'm currently focusing on learning about web development
 
-* 🌍  I'm based in Surabaya, Indonesia
+* 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [shabbrina5@gmail.com](mailto:shabbrina5@gmail.com)
-* 🧠  I'm currently learning ASP.NET 
+* 🧠  I'm currently learning ASP.NET & Next JS
 * ⚡  I am a big fan of thriller books and movies especially when there is a murder mystery involved :smile:
 
 ### Skills
@@ -23,8 +23,3 @@ I'm a fresh graduate of computer engineering at Institut Teknologi Sepuluh Nopem
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-
-
-### Socials
-<!-- <a href="https://www.codepen.io/shabrina12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /> <a href="https://www.stackoverflow.com/users/20288639/shabrina-putri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p> <a href="http://www.instagram.com/shabputri_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>-->
-<p align="left"> </a> <a href="https://www.github.com/shabrina12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shabrina-putri-4705491a5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
