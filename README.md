@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shabrina 
 ======================================================================================================================================
 
-I graduated in computer engineering at Institut Teknologi Sepuluh Nopember in Indonesia and am currently working as a junior full stack developer. Lately I've been focusing on learning about web development in my spare time.
+I graduated in computer engineering and am currently working as a junior full stack developer. Lately I've been focusing on learning about web development in my spare time.
 
 * 🌍  I'm based in Indonesia
 * ✉️  Let's discuss about web dev or books! [shabbrina5@gmail.com](mailto:shabbrina5@gmail.com) 
