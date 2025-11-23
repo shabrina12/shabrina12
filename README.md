@@ -5,7 +5,7 @@ I graduated in computer engineering and am currently working as a junior full st
 
 * 🌍  I'm based in Indonesia
 * ✉️  Let's discuss about web dev or books! [shabbrina5@gmail.com](mailto:shabbrina5@gmail.com) 
-* 🧠  I'm currently learning ASP.NET & Next JS
+* 🧠  I'm currently learning Laravel
 * ⚡  I am a big fan of thriller books and movies especially when there is a murder mystery involved :smile:
 
 ### Skills
